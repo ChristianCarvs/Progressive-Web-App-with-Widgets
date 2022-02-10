@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "545432504212",
+    "project_id": "myapp-d719f",
+    "storage_bucket": "myapp-d719f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545432504212:android:897bf6497619c1c9a83181",
+        "android_client_info": {
+          "package_name": "pryercarvs.koykoy200078.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545432504212-givhq0idaudkrf5vhk2le3g879sgoosg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQtIYcB2dWG42L2xosW3SQvpGIEw7YKlQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545432504212-givhq0idaudkrf5vhk2le3g879sgoosg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-1474281514036342~9774064030"
+    }
+  ],
+  "configuration_version": "1"
+}
